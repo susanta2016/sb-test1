@@ -2,4 +2,5 @@
 
 echo phpinfo();
 echo 'sdfsdf';
+echo 'sdsdf great';
 ?>
